@@ -1,0 +1,100 @@
+*{
+    background-color: black !important; 
+}
+.navbar {
+    background-color: black;
+}
+.navbar-toggler {
+    height: auto;
+    width: auto;
+}
+.navbar-toggler-icon {
+    height: 5px;
+    width: 2px;
+}
+.nav-item a{
+    color: #cc0066 !important;
+}
+.carousel-slide {
+    height: 20px;
+    width: 20px;
+}
+.carousel-inner {
+    height: auto;
+    width: auto;
+    padding: 25px;
+}
+.card1 {
+    color: #cc0066 !important ;
+    height: auto;
+    width: 700px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin: auto;
+}
+.card {
+    color: #cc0066 !important ;
+    height: auto;
+    width: 400px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin: auto;
+}
+.row1 img {
+    height: 100px;
+    width: 100px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.row2 img {
+    height: 100px;
+    width: 100px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.row3 img {
+    height: 100px;
+    width: 100px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.footer {
+    background-color: black;
+    margin-top: 3%;
+}
+.fa-instagram {
+    color: #ff66ff;
+}
+.fa-facebook-official {
+    color: #3B5998;
+}
+.fa-twitter {
+    color: #00acee;
+}
+.fa-youtube-play {
+    color: #cc0000;
+}
+.fa-whatsapp {
+    color: #075e54;
+}
+.form-group input {
+    color: cornsilk;
+}
+.dropdown-toggle {
+    color:  #cc0066 !important;
+}
+.dropdown-item {
+    color:  #cc0066 !important;
+}
+/*<div class="row">
+height="200" width="auto"
+<div class="col p-5 m-3">
+color: #6a6a99; 
+color: #ff66ff;
+.fa { 
+    border-color: cornsilk;
+}*/
